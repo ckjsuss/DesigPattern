@@ -1,7 +1,13 @@
 package segregation_plus;
 
-public class Main {
-    public static void main(String[] args){
+/**
+ * 接口隔离原则
+ * @author Liu
+ * @version 1.0.0.1
+ * @date 2020/7/31 11:21
+ */
+public class SegregationTest {
+    public static void main(String[] args) {
         ClassA classA = new ClassA();
         ClassB classB = new ClassB();
         ClassC classC = new ClassC();
