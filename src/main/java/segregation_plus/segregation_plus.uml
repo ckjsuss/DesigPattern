@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>segregation_plus</OriginalElement>
+  <nodes>
+    <node x="0.0" y="136.0">segregation_plus.ClassD</node>
+    <node x="635.5" y="0.0">segregation_plus.TestInterface2</node>
+    <node x="177.0" y="136.0">segregation_plus.ClassC</node>
+    <node x="59.5" y="0.0">segregation_plus.TestInterface3</node>
+    <node x="695.0" y="136.0">segregation_plus.ClassB</node>
+    <node x="436.0" y="136.0">segregation_plus.ClassA</node>
+    <node x="347.5" y="11.5">segregation_plus.TestInterface1</node>
+    <node x="338.5" y="305.0">segregation_plus.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="segregation_plus.ClassC" target="segregation_plus.TestInterface1">
+      <point x="59.75" y="-49.5" />
+      <point x="356.25" y="116.0" />
+      <point x="406.375" y="116.0" />
+      <point x="-19.625" y="26.5" />
+    </edge>
+    <edge source="segregation_plus.ClassD" target="segregation_plus.TestInterface1">
+      <point x="39.25" y="-49.5" />
+      <point x="117.75" y="106.0" />
+      <point x="367.125" y="106.0" />
+      <point x="-58.875" y="26.5" />
+    </edge>
+    <edge source="segregation_plus.Main" target="segregation_plus.ClassD">
+      <point x="-76.5625" y="-26.5" />
+      <point x="349.4375" y="285.0" />
+      <point x="39.25" y="285.0" />
+      <point x="-39.25" y="49.5" />
+    </edge>
+    <edge source="segregation_plus.ClassA" target="segregation_plus.TestInterface1">
+      <point x="-59.75" y="-49.5" />
+      <point x="495.75" y="116.0" />
+      <point x="445.625" y="116.0" />
+      <point x="19.625" y="26.5" />
+    </edge>
+    <edge source="segregation_plus.ClassC" target="segregation_plus.TestInterface3">
+      <point x="-59.75" y="-49.5" />
+      <point x="236.75" y="96.0" />
+      <point x="177.25" y="96.0" />
+      <point x="39.25" y="38.0" />
+    </edge>
+    <edge source="segregation_plus.ClassB" target="segregation_plus.TestInterface2">
+      <point x="39.25" y="-49.5" />
+      <point x="812.75" y="116.0" />
+      <point x="753.25" y="116.0" />
+      <point x="39.25" y="38.0" />
+    </edge>
+    <edge source="segregation_plus.ClassD" target="segregation_plus.TestInterface3">
+      <point x="-39.25" y="-49.5" />
+      <point x="39.25" y="116.0" />
+      <point x="98.75" y="116.0" />
+      <point x="-39.25" y="38.0" />
+    </edge>
+    <edge source="segregation_plus.Main" target="segregation_plus.ClassC">
+      <point x="-10.9375" y="-26.5" />
+      <point x="415.0625" y="255.0" />
+      <point x="356.25" y="255.0" />
+      <point x="59.75" y="49.5" />
+    </edge>
+    <edge source="segregation_plus.ClassB" target="segregation_plus.TestInterface1">
+      <point x="-39.25" y="-49.5" />
+      <point x="734.25" y="106.0" />
+      <point x="484.875" y="106.0" />
+      <point x="58.875" y="26.5" />
+    </edge>
+    <edge source="segregation_plus.Main" target="segregation_plus.ClassB">
+      <point x="76.5625" y="-26.5" />
+      <point x="502.5625" y="285.0" />
+      <point x="812.75" y="285.0" />
+      <point x="39.25" y="49.5" />
+    </edge>
+    <edge source="segregation_plus.Main" target="segregation_plus.ClassA">
+      <point x="32.8125" y="-26.5" />
+      <point x="458.8125" y="265.0" />
+      <point x="615.25" y="265.0" />
+      <point x="59.75" y="49.5" />
+    </edge>
+    <edge source="segregation_plus.ClassA" target="segregation_plus.TestInterface2">
+      <point x="59.75" y="-49.5" />
+      <point x="615.25" y="116.0" />
+      <point x="674.75" y="116.0" />
+      <point x="-39.25" y="38.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="426.0" y="174.0" />
+  <SelectedNodes>
+    <node>segregation_plus.TestInterface3</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

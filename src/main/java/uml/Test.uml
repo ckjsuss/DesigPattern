@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">uml.A</node>
+    <node x="50.5" y="149.0">uml.B</node>
+    <node x="0.0" y="368.0">uml.B1</node>
+    <node x="386.0" y="368.0">uml.B2</node>
+    <node x="231.0" y="368.0">uml.B3</node>
+    <node x="202.0" y="0.0">uml.A1</node>
+    <node x="0.0" y="224.0">uml.A2</node>
+    <node x="202.0" y="224.0">uml.A3</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="uml.B" target="uml.A">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="226.0" y="225.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
